@@ -1,6 +1,9 @@
 # 📊 Retail Business Intelligence Platform
 
 ## 📌 Project Overview
+## 📸 Dashboard Preview
+
+![Retail Sales Dashboard](dashboard.png)
 
 The **Retail Business Intelligence Platform** is a data analytics project developed to analyze retail sales data and generate meaningful business insights. The project combines **Python, SQL, and Power BI** to clean, analyze, and visualize sales data through an interactive dashboard.
 
