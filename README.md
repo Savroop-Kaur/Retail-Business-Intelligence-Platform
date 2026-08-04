@@ -87,5 +87,3 @@ The **Retail Business Intelligence Platform** is a data analytics project develo
 - GitHub: https://github.com/Savroop-Kaur
 
 ---
-
-⭐ If you found this project useful, feel free to explore the repository.
